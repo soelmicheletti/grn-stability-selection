@@ -1,7 +1,7 @@
 ![Alt text](/wallpaper.png?raw=true "Title")
 # GRN-Stability Selection
 
-[![master](https://github.com/soelmicheletti/grn-thresholding/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/soelmicheletti/grn-thresholding/actions/workflows/python-app.yml)[![PyPI - Python Version](https://img.shields.io/pypi/v/grn-thresholding?style=flat&colorA=0f0f0f&colorB=0f0f0f)](https://pypi.org/project/grn-thresholding/)
+[![master](https://github.com/soelmicheletti/grn-thresholding/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/soelmicheletti/grn-thresholding/actions/workflows/python-app.yml)[![PyPI - Python Version](https://img.shields.io/pypi/v/grn-thresholding?style=flat&colorA=0f0f0f&colorB=0f0f0f)](https://pypi.org/project/grn-thresholdin/)
 
 Stability selection is a generally applicable subsampling-based framework for feature selection, allowing to bound the number of false positives if the exchangeability condition holds. Here we apply it in the context of gene regulatory networks: given a network-inference algorithm, we return the set of edges selected by stability selection. 
 
